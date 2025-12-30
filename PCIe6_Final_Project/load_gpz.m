@@ -1,0 +1,1 @@
+load('gpz_data.mat', 'gpz');
